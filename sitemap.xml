@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://codenotknock.gitup.io/tages/index.html</loc>
+    
+    <lastmod>2022-10-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://codenotknock.gitup.io/manifest.json</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +22,7 @@
   <url>
     <loc>http://codenotknock.gitup.io/link/index.html</loc>
     
-    <lastmod>2022-10-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://codenotknock.gitup.io/tages/index.html</loc>
-    
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>http://codenotknock.gitup.io/posts/undefined.html</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
   <url>
     <loc>http://codenotknock.gitup.io/posts/16107.html</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>http://codenotknock.gitup.io/posts/0.html</loc>
     
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
 
   <url>
     <loc>http://codenotknock.gitup.io/</loc>
-    <lastmod>2022-10-05</lastmod>
+    <lastmod>2022-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
